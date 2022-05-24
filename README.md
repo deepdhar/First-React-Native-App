@@ -1,4 +1,4 @@
-# To-Do List
+# To-Do List (Expo)
 A react native app to demonstate to-do list app and its functionalities of Create and Delete
 
 <img src="https://user-images.githubusercontent.com/53803245/170038855-ea01049a-ca86-42a0-966e-a2491dfd34a6.png"/>
